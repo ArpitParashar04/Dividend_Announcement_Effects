@@ -1,6 +1,6 @@
 # Gold & Silver Price Prediction
 
-### Enhanced Academic Time Series Project — ARIMA vs. Regularised Lag-Feature Regression
+### Time Series — ARIMA vs. Regularised Lag-Feature Regression
 
 ---
 
@@ -196,6 +196,5 @@ Gold and Silver.
 
 ## License
 
-Price data sourced from Yahoo Finance via the `yfinance` library. Notebook produced as an
-enhanced academic project; all issues identified in the original baseline ARIMA script have been
+Price data sourced from Yahoo Finance via the `yfinance` library; all issues identified in the original baseline ARIMA script have been
 documented and corrected. Provided for educational/portfolio purposes.
